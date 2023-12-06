@@ -134,7 +134,7 @@ namespace Tyuiu.MarinenkovaKD.Sprint6.Task4.V7
             // labelStart_MKD
             // 
             this.labelStart_MKD.AutoSize = true;
-            this.labelStart_MKD.Location = new System.Drawing.Point(7, 20);
+            this.labelStart_MKD.Location = new System.Drawing.Point(7, 16);
             this.labelStart_MKD.Name = "labelStart_MKD";
             this.labelStart_MKD.Size = new System.Drawing.Size(36, 13);
             this.labelStart_MKD.TabIndex = 2;
@@ -150,7 +150,7 @@ namespace Tyuiu.MarinenkovaKD.Sprint6.Task4.V7
             // 
             // textBoxStart_MKD
             // 
-            this.textBoxStart_MKD.Location = new System.Drawing.Point(7, 36);
+            this.textBoxStart_MKD.Location = new System.Drawing.Point(7, 29);
             this.textBoxStart_MKD.Name = "textBoxStart_MKD";
             this.textBoxStart_MKD.Size = new System.Drawing.Size(74, 20);
             this.textBoxStart_MKD.TabIndex = 0;
